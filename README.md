@@ -21,19 +21,43 @@
 -->
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
+## About me
+
+Hi, I'm Swikriti 👋  
+
+I'm a Computer Science student at Smith College (class of 2028) who likes building backend systems, data integrations, and tools that automate boring work.  
+
+Recently I've been:
+- 🔁 Building Salesforce automations and workflows that support 10+ departments at Smith
+- 🔗 Creating integration pipelines that sync event and ticket data between campus systems and remove hours of manual work every month
+- 🧠 Working on AI powered text digitization for low resource scripts using OpenCV and PyTorch
+
 ---
-## About
 
-Hi, I am Swikriti Dumre. I am a CRM intern at Smith College ITS. I work on Salesforce workflows: logic building, flow building, test-script writing, testing. I am experienced in Data Integration. My work involved making pipelines to integrate 25Live and TDX to eliminate duplicate tickets and reduce manual changes.
+### What I work with
 
-- 🎓 Education: [Smith College], Graduation - May 2028
-  
-## Featured Projects
+- 💻 Languages: Python, Java, C++, C, SQL, JavaScript  
+- 🌐 Web and data: REST APIs, JSON, XML, HTML, CSS, TypeScript  
+- ☁ Cloud and DevOps: Azure, GitHub Actions, Docker, PowerShell, Bash  
+- 🧰 Tools and frameworks: Git, SnapLogic, Salesforce, OpenCV, PyTorch, MATLAB  
 
-- LIPI AI: Language Translation Project that scans physical transcripts and gives a digital translation to a specified langauge. Uses Multilingual Hugging Face Transformer. [Python- numpy, pytorch]
+---
 
-## Tech & Interests
-- 🧰 Languages: [Python], [Java], [C], [C++], [JavaScript]
-- 🔭 Interests: [CyberSecurity], [Medicinal Technolog], [Data Analysis]
+### Projects I enjoyed
 
-  
+- **PESCAPE**  
+  Text based escape room game in Java using object oriented design and modular command handling.
+
+- **WAFFLE**  
+  Autonomous mobile robot that detects and responds to simulated fires using sensor input and basic navigation logic.
+
+---
+
+### Right now
+
+- 📚 Studying algorithms, theory, microprocessors, and statistics  
+- 🤖 Exploring machine learning and computer vision through side projects  
+- 🤝 Open to collaborating on backend, data, or ML focused projects
+
+If anything here overlaps with what you are building, feel free to open an issue, fork a repo, or reach out.
+
