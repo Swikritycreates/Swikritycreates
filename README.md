@@ -25,7 +25,7 @@
 
 Hi, I'm Swikriti 👋  
 
-I'm a Computer Science student at Smith College (class of 2028) who likes building backend systems, data integrations, and tools that automate boring work.  
+I'm a Computer Science and Statistics student at Smith College (class of 2028) who likes data analytics.   
 
 Recently I've been:
 - 🔁 Building Salesforce automations and workflows that support 10+ departments at Smith
